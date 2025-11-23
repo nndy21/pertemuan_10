@@ -1,8 +1,8 @@
-# PENJELASAN PRATIKUM 5
-
 ## NAMA : ANDI NURCAHYANA
 ## NIM  : 312510201
 
+
+# PENJELASAN PRATIKUM 5
 1. Mulai
 
 Flowchart dimulai dari simbol Start (biasanya berbentuk oval).
